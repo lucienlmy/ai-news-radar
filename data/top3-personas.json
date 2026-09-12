@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T19:32:33.447408Z",
+  "generated_at": "2026-09-12T23:14:50.579250Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_bbf03c6dd45c",
-      "title": "Copilot 代码审查中的自动解决与分析更新 / Auto-resolution and analysis updates in Copilot code review",
-      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 60,
-          "review": "功能确实上线了，可误报率、采纳率一个没给，自动\"解决\"了算谁签字？"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "官方更新属实，但无论文、代码和可复现评测，只能算产品公告。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "Copilot 审查能自动改掉小问题，团队今天就能在 PR 里试，省 review 时间。"
-        }
-      }
-    },
-    {
       "story_id": "story_2cae03eec67b",
       "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
       "url": "https://www.rubyhack.ai",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 46,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 59,
           "review": "跑公网服务的都该扫一眼：AI 爬虫失控能打崩包仓库，限流和指纹识别得提前设防。"
+        }
+      }
+    },
+    {
+      "story_id": "story_30eddadc9249",
+      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
+      "url": "https://suno.com/blog/introducing-v6",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 50,
+          "review": "三档版本线摆得整齐，可升级在哪？通稿里只剩版本号和形容词。"
+        },
+        "paper-police": {
+          "score": 38,
+          "review": "官方博客发布，无论文无开源无第三方评测，demo好听不等于指标可复现。"
+        },
+        "pragmatic": {
+          "score": 58,
+          "review": "做音乐/音频 demo 的能直接上手试，但没提 API 和价格，先别动生产线。"
         }
       }
     }
