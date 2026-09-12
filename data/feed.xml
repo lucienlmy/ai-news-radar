@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 12 Sep 2026 07:09:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 09:21:50 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -13,7 +13,7 @@
 <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Sat, 12 Sep 2026 07:09:42 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 09:21:50 +0000</pubDate>
 </item>
 <item>
 <title>GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub</title>
@@ -88,6 +88,14 @@
 <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement</title>
+<link>https://www.dwarkesh.com/p/john-beren-charlie</link>
+<guid isPermaLink="true">https://www.dwarkesh.com/p/john-beren-charlie</guid>
+<description>Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。（Dwarkesh Patel：Podcast &amp; Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sat, 12 Sep 2026 08:31:36 +0000</pubDate>
+</item>
+<item>
 <title>具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议</title>
 <link>https://www.aibase.com/news/31002</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31002</guid>
@@ -104,36 +112,12 @@
 <pubDate>Fri, 11 Sep 2026 15:01:28 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试</title>
-<link>https://www.aibase.com/news/30999</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30999</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 11 Sep 2026 11:31:27 +0000</pubDate>
-</item>
-<item>
-<title>Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发</title>
-<link>https://www.aibase.com/news/30993</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30993</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 11 Sep 2026 11:31:27 +0000</pubDate>
-</item>
-<item>
 <title>Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too</title>
 <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too</guid>
 <description>TechCrunch AI</description>
 <category>值得关注</category>
 <pubDate>Fri, 11 Sep 2026 20:59:47 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用</title>
-<link>https://www.aibase.com/news/30995</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30995</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 11 Sep 2026 11:31:27 +0000</pubDate>
 </item>
 <item>
 <title>Feeling sad about AI</title>
@@ -152,20 +136,36 @@
 <pubDate>Fri, 11 Sep 2026 14:25:21 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者</title>
-<link>https://www.aibase.com/news/30994</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30994</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 11 Sep 2026 11:31:27 +0000</pubDate>
+<title>Litelm：精简版 LiteLLM，摒弃冗余</title>
+<link>https://github.com/kennethwolters/litelm</link>
+<guid isPermaLink="true">https://github.com/kennethwolters/litelm</guid>
+<description>github.com</description>
+<category>值得关注</category>
+<pubDate>Sat, 12 Sep 2026 02:45:28 +0000</pubDate>
 </item>
 <item>
-<title>告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1</title>
-<link>https://www.aibase.com/news/30996</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30996</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 11 Sep 2026 11:31:27 +0000</pubDate>
+<title>Hacker News 降低了人工智能驱动内容的优先级</title>
+<link>https://sprinklz.io/public/pdwt4dve5uai</link>
+<guid isPermaLink="true">https://sprinklz.io/public/pdwt4dve5uai</guid>
+<description>sprinklz.io</description>
+<category>值得关注</category>
+<pubDate>Fri, 11 Sep 2026 22:02:28 +0000</pubDate>
+</item>
+<item>
+<title>数学领域中人工智能的偏差</title>
+<link>https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics</link>
+<guid isPermaLink="true">https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics</guid>
+<description>terrytao.wordpress.com</description>
+<category>值得关注</category>
+<pubDate>Fri, 11 Sep 2026 19:07:02 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic reveals rogue AI agents hate CAPTCHAs, just like you</title>
+<link>https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you</link>
+<guid isPermaLink="true">https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you</guid>
+<description>TechRadar</description>
+<category>值得关注</category>
+<pubDate>Fri, 11 Sep 2026 18:05:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
