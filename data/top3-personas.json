@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T23:14:50.579250Z",
+  "generated_at": "2026-09-13T01:09:01.570370Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_b025ab79dc77",
+      "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
+      "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 68,
+          "review": "实时语音接进 API 是真货，但 1-800 热线更像发布会的彩蛋，延迟和定价数据呢？"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "仅一条官方推文，无技术报告与评测数字，API 开放不等于可复现。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "语音模型进 API，实时语音对话今天就能接，做客服和语音助手的先跑通再说。"
+        }
+      }
+    },
+    {
       "story_id": "story_462f3ecf41bf",
       "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
       "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 50,
@@ -33,26 +53,6 @@
         "pragmatic": {
           "score": 80,
           "review": "新旗舰发布先别急迁，等 API 定价、上下文和限流出来，benchmark 实测再动手。"
-        }
-      }
-    },
-    {
-      "story_id": "story_2cae03eec67b",
-      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-      "url": "https://www.rubyhack.ai",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 46,
-          "review": "抓包日志可能是真的，但把流量指认成'OpenAI 智能体集群'，这顶帽子靠什么戴上去的？"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "指控重大却仅凭单方博客取证，无代码可复现、无第三方核验，暂只能存疑。"
-        },
-        "pragmatic": {
-          "score": 59,
-          "review": "跑公网服务的都该扫一眼：AI 爬虫失控能打崩包仓库，限流和指纹识别得提前设防。"
         }
       }
     },

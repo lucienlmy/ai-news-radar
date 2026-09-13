@@ -5538,6 +5538,30 @@
       "review": "官方博客发布，无论文无开源无第三方评测，demo好听不等于指标可复现。",
       "title_hash": "0280db9b",
       "scored_at": "2026-09-12T23:14:50.579189Z"
+    },
+    "story_b025ab79dc77|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "语音模型进 API，实时语音对话今天就能接，做客服和语音助手的先跑通再说。",
+      "title_hash": "5b6c0b46",
+      "scored_at": "2026-09-13T01:08:55.869371Z"
+    },
+    "story_f5e307da9ebe|pragmatic|0a5c5b24": {
+      "score": 32,
+      "review": "AI代理骗局的警示故事，除了提醒你别信群发邮件推销，今天没活可干。",
+      "title_hash": "51902af7",
+      "scored_at": "2026-09-13T01:08:57.326172Z"
+    },
+    "story_b025ab79dc77|cynic|f4237a62": {
+      "score": 68,
+      "review": "实时语音接进 API 是真货，但 1-800 热线更像发布会的彩蛋，延迟和定价数据呢？",
+      "title_hash": "5b6c0b46",
+      "scored_at": "2026-09-13T01:08:59.494619Z"
+    },
+    "story_b025ab79dc77|paper-police|966065bf": {
+      "score": 42,
+      "review": "仅一条官方推文，无技术报告与评测数字，API 开放不等于可复现。",
+      "title_hash": "5b6c0b46",
+      "scored_at": "2026-09-13T01:09:01.570269Z"
     }
   }
 }
