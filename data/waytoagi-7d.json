@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-09-19T19:29:24.816701Z",
+  "generated_at": "2026-09-19T23:02:21.146718Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-09-19",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-09-19",
+      "title": "详解 Jev 模型",
+      "summary": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/VeCRw5GjRieyH6kUfFIch4Xan7e?from=from_copylink"
+    },
     {
       "date": "2026-09-19",
       "title": "拿到 Jev，然后呢？ Jev 到底能干什么：剔掉虚火之后的一份真实落地清单",
@@ -28,7 +34,7 @@
     {
       "date": "2026-09-19",
       "title": "分享一个帮我快速把陌生领域方法论做成skill的新技巧",
-      "summary": "分享一个帮我快速把陌生领域方法论做成skill的新技巧",
+      "summary": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/ESXUw3O2ziZMF7kKDPjcH9UinRf?from=from_copylink"
     },
     {
@@ -38,8 +44,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/I4ADw72RkirnjtkBSX5c37Enn0d?from=from_copylink"
     }
   ],
-  "count_7d": 34,
+  "count_7d": 35,
   "updates_7d": [
+    {
+      "date": "2026-09-19",
+      "title": "详解 Jev 模型",
+      "summary": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/VeCRw5GjRieyH6kUfFIch4Xan7e?from=from_copylink"
+    },
     {
       "date": "2026-09-19",
       "title": "拿到 Jev，然后呢？ Jev 到底能干什么：剔掉虚火之后的一份真实落地清单",
@@ -61,7 +73,7 @@
     {
       "date": "2026-09-19",
       "title": "分享一个帮我快速把陌生领域方法论做成skill的新技巧",
-      "summary": "分享一个帮我快速把陌生领域方法论做成skill的新技巧",
+      "summary": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/ESXUw3O2ziZMF7kKDPjcH9UinRf?from=from_copylink"
     },
     {
