@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T19:26:42.515002Z",
+  "generated_at": "2026-09-20T23:14:18.332147Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8511,
-      "importance": 0.8511,
-      "importance_score": 0.8511,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9807,
+        "recency": 0.9284,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -305,15 +305,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8981,
+        "recency": 0.8502,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -340,88 +340,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
-      "story_id": "story_e7fee7b1503f",
-      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "story_id": "story_b27cd7e4992a",
+      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "title_zh": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "title_en": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "title_original": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
+          "published_at": "2026-09-20T20:20:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "title_zh": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "title_en": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "title_original": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
+          "published_at": "2026-09-20T20:20:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9227,
+        "recency": 0.9591,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-20T13:52:24Z",
-      "latest_at": "2026-09-20T13:52:24Z",
+      "earliest_at": "2026-09-20T20:20:56Z",
+      "latest_at": "2026-09-20T20:20:56Z",
       "primary_item": {
-        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-        "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-        "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-        "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-        "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+        "title_zh": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+        "title_en": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+        "title_original": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+        "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -469,15 +470,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8702,
+        "recency": 0.8238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -502,7 +503,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
+      }
+    },
+    {
+      "story_id": "story_e7fee7b1503f",
+      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T13:52:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T13:52:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8735,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-20T13:52:24Z",
+      "latest_at": "2026-09-20T13:52:24Z",
+      "primary_item": {
+        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
+        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+        "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+        "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+        "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
+        "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -579,15 +661,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7549,
+        "recency": 0.7146,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -614,7 +696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -662,15 +744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8702,
+        "recency": 0.8238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -695,7 +777,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -743,15 +825,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8702,
+        "recency": 0.8238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -776,7 +858,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -824,15 +906,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8702,
+        "recency": 0.8238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -857,7 +939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -905,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8702,
+        "recency": 0.8238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -938,117 +1020,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
-      "story_id": "story_98f7eb83a544",
-      "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-      "primary_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-      "source": "TechCrunch AI",
+      "story_id": "story_2db69fbe8a5a",
+      "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "title_zh": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队",
-          "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "title_original": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
+          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-19T19:57:47Z"
+          "published_at": "2026-09-20T18:50:18Z"
         },
         {
-          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
-          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "title_zh": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队",
-          "title_en": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "title_original": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": null,
+          "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T19:57:47Z"
+          "published_at": "2026-09-20T18:50:18Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "title_zh": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队",
-          "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "title_original": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
+          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-19T19:57:47Z"
+          "published_at": "2026-09-20T18:50:18Z"
         },
         {
-          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
-          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "title_zh": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队",
-          "title_en": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "title_original": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": null,
+          "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T19:57:47Z"
+          "published_at": "2026-09-20T18:50:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.597,
-      "importance": 0.597,
-      "importance_score": 0.597,
+      "score": 0.6044,
+      "importance": 0.6044,
+      "importance_score": 0.6044,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5472,
+        "editorial": 0.4896,
         "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7124,
+        "ai_relevance": 0.68,
+        "recency": 0.9384,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T19:57:47Z",
-      "latest_at": "2026-09-19T19:57:47Z",
+      "earliest_at": "2026-09-20T18:50:18Z",
+      "latest_at": "2026-09-20T18:50:18Z",
       "primary_item": {
-        "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-        "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-        "title_zh": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队",
-        "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-        "title_original": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+        "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
+        "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-        "source": "TechCrunch AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+        "source": "The Verge",
         "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -1096,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8702,
+        "recency": 0.8238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1129,7 +1210,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -1235,15 +1316,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5647,
-      "importance": 0.5647,
-      "importance_score": 0.5647,
+      "score": 0.5554,
+      "importance": 0.5554,
+      "importance_score": 0.5554,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.966,
+        "recency": 0.9146,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1268,146 +1349,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
-      }
-    },
-    {
-      "story_id": "story_fc0b2a01d33a",
-      "title": "你能分辨出哪些图片是AI生成的吗？",
-      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-      "primary_url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-      "source": "slop-sense.labtoagi.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "023f1795b37bf59710aa9170b3471c0fbb1a20ea",
-          "title": "你能分辨出哪些图片是AI生成的吗？",
-          "title_zh": "你能分辨出哪些图片是AI生成的吗？",
-          "title_en": null,
-          "title_original": "你能分辨出哪些图片是AI生成的吗？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-          "source": "slop-sense.labtoagi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:44:20.618000Z"
-        },
-        {
-          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
-          "title": "你能分辨出哪些图片是AI生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能分辨出哪些图片是AI生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T23:02:34Z"
-        },
-        {
-          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49770847",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:02:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "slop-sense.labtoagi.com"
-      ],
-      "items": [
-        {
-          "id": "023f1795b37bf59710aa9170b3471c0fbb1a20ea",
-          "title": "你能分辨出哪些图片是AI生成的吗？",
-          "title_zh": "你能分辨出哪些图片是AI生成的吗？",
-          "title_en": null,
-          "title_original": "你能分辨出哪些图片是AI生成的吗？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-          "source": "slop-sense.labtoagi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:44:20.618000Z"
-        },
-        {
-          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
-          "title": "你能分辨出哪些图片是AI生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能分辨出哪些图片是AI生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T23:02:34Z"
-        },
-        {
-          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49770847",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:02:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5614,
-      "importance": 0.5614,
-      "importance_score": 0.5614,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9479,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T23:02:34Z",
-      "latest_at": "2026-09-20T15:44:20.618000Z",
-      "primary_item": {
-        "id": "023f1795b37bf59710aa9170b3471c0fbb1a20ea",
-        "title": "你能分辨出哪些图片是AI生成的吗？",
-        "title_zh": "你能分辨出哪些图片是AI生成的吗？",
-        "title_en": null,
-        "title_original": "你能分辨出哪些图片是AI生成的吗？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-        "source": "slop-sense.labtoagi.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -1455,15 +1397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8446,
+        "recency": 0.7995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1488,7 +1430,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -1514,7 +1456,7 @@
           "published_at": "2026-09-20T12:50:12.972000Z"
         },
         {
-          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
+          "id": "c3d6b1a7c9be9799bda91fd866e9e2214ea3f055",
           "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
           "title_zh": "人工智能与“知识共享”的瓦解",
           "title_en": "AI and the Destruction of the Creative Commons",
@@ -1522,9 +1464,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T10:07:51Z"
         },
         {
@@ -1544,7 +1486,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.chesterwisniewski.com"
       ],
@@ -1564,7 +1506,7 @@
           "published_at": "2026-09-20T12:50:12.972000Z"
         },
         {
-          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
+          "id": "c3d6b1a7c9be9799bda91fd866e9e2214ea3f055",
           "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
           "title_zh": "人工智能与“知识共享”的瓦解",
           "title_en": "AI and the Destruction of the Creative Commons",
@@ -1572,9 +1514,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T10:07:51Z"
         },
         {
@@ -1594,15 +1536,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5544,
-      "importance": 0.5544,
-      "importance_score": 0.5544,
+      "score": 0.5457,
+      "importance": 0.5457,
+      "importance_score": 0.5457,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.909,
+        "recency": 0.8605,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1627,7 +1569,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -1704,15 +1646,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9513,
+        "recency": 0.9006,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1737,7 +1679,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -1785,15 +1727,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8446,
+        "recency": 0.7995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1818,7 +1760,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
+      }
+    },
+    {
+      "story_id": "story_d33cb89128f1",
+      "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "primary_url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "313859eb459612551da88bd8a4d0cfffa9b411b2",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T11:37:10Z"
+        },
+        {
+          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49774795",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T11:37:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "313859eb459612551da88bd8a4d0cfffa9b411b2",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T11:37:10Z"
+        },
+        {
+          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49774795",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T11:37:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.518,
+      "importance": 0.518,
+      "importance_score": 0.518,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8455,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T11:37:10Z",
+      "latest_at": "2026-09-20T11:37:10Z",
+      "primary_item": {
+        "id": "313859eb459612551da88bd8a4d0cfffa9b411b2",
+        "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+        "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+        "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+        "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -1895,15 +1947,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5135,
-      "importance": 0.5135,
-      "importance_score": 0.5135,
+      "score": 0.5057,
+      "importance": 0.5057,
+      "importance_score": 0.5057,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8208,
+        "recency": 0.7771,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1928,7 +1980,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     },
     {
@@ -1976,15 +2028,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8446,
+        "recency": 0.7995,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2009,117 +2061,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
-      }
-    },
-    {
-      "story_id": "story_d33cb89128f1",
-      "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "primary_url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T11:37:10Z"
-        },
-        {
-          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49774795",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T11:37:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T11:37:10Z"
-        },
-        {
-          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49774795",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T11:37:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8931,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T11:37:10Z",
-      "latest_at": "2026-09-20T11:37:10Z",
-      "primary_item": {
-        "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
-        "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-        "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-        "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-        "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:27:30.010946Z"
+        "scored_at": "2026-09-20T23:23:12.874790Z"
       }
     }
   ]
