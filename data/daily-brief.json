@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T23:14:18.332147Z",
+  "generated_at": "2026-09-21T01:12:28.012768Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8417,
-      "importance": 0.8417,
-      "importance_score": 0.8417,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9284,
+        "recency": 0.9024,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
@@ -305,15 +305,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8502,
+        "recency": 0.8264,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -340,7 +340,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9591,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -422,30 +422,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
-      "story_id": "story_0c9b9ccf9cc3",
-      "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-      "url": "https://www.aibase.com/news/31205",
-      "primary_url": "https://www.aibase.com/news/31205",
+      "story_id": "story_37d000e5ebed",
+      "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+      "url": "https://www.aibase.com/news/31211",
+      "primary_url": "https://www.aibase.com/news/31211",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
+          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
           "title_en": null,
-          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31205",
+          "url": "https://www.aibase.com/news/31211",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
+          "published_at": "2026-09-21T01:12:28.012768Z"
         }
       ],
       "source_count": 1,
@@ -454,48 +454,49 @@
       ],
       "items": [
         {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
+          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
           "title_en": null,
-          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31205",
+          "url": "https://www.aibase.com/news/31211",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
+          "published_at": "2026-09-21T01:12:28.012768Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8238,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-20T09:48:58.396453Z",
-      "latest_at": "2026-09-20T09:48:58.396453Z",
+      "earliest_at": "2026-09-21T01:12:28.012768Z",
+      "latest_at": "2026-09-21T01:12:28.012768Z",
       "primary_item": {
-        "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-        "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-        "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+        "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
+        "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+        "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
         "title_en": null,
-        "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+        "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31205",
+        "url": "https://www.aibase.com/news/31211",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -503,7 +504,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
+      }
+    },
+    {
+      "story_id": "story_91920f3fb92d",
+      "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+      "url": "https://www.aibase.com/news/31210",
+      "primary_url": "https://www.aibase.com/news/31210",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
+          "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "title_zh": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "title_en": null,
+          "title_original": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31210",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T01:12:28.012768Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
+          "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "title_zh": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "title_en": null,
+          "title_original": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31210",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T01:12:28.012768Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T01:12:28.012768Z",
+      "latest_at": "2026-09-21T01:12:28.012768Z",
+      "primary_item": {
+        "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
+        "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+        "title_zh": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+        "title_en": null,
+        "title_original": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31210",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
@@ -551,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8735,
+        "recency": 0.849,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,142 +667,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
-      "story_id": "story_ececa933a36b",
-      "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_49185780ee9f",
+      "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+      "url": "https://www.aibase.com/news/31207",
+      "primary_url": "https://www.aibase.com/news/31207",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
-          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "title_zh": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+          "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
+          "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+          "title_zh": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
           "title_en": null,
-          "title_original": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "summary": "纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是\"人类历史上最大规模的劳动力盗用\"，OpenAI ChatGPT 负责人称其对出版商是\"生存威胁\"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。",
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-19T23:58:19.151000Z"
-        },
-        {
-          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
-          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
-          "title_zh": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
-          "title_en": null,
-          "title_original": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "title_original": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "www.tomshardware.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T23:58:19.151000Z"
+          "url": "https://www.aibase.com/news/31207",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T01:12:28.012768Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.tomshardware.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
-          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "title_zh": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+          "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
+          "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+          "title_zh": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
           "title_en": null,
-          "title_original": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "summary": "纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是\"人类历史上最大规模的劳动力盗用\"，OpenAI ChatGPT 负责人称其对出版商是\"生存威胁\"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。",
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-19T23:58:19.151000Z"
-        },
-        {
-          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
-          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
-          "title_zh": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
-          "title_en": null,
-          "title_original": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "title_original": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "www.tomshardware.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T23:58:19.151000Z"
+          "url": "https://www.aibase.com/news/31207",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T01:12:28.012768Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7146,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-19T23:58:19.151000Z",
-      "latest_at": "2026-09-19T23:58:19.151000Z",
+      "earliest_at": "2026-09-21T01:12:28.012768Z",
+      "latest_at": "2026-09-21T01:12:28.012768Z",
       "primary_item": {
-        "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
-        "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-        "title_zh": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+        "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
+        "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+        "title_zh": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
         "title_en": null,
-        "title_original": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-        "summary": "纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是\"人类历史上最大规模的劳动力盗用\"，OpenAI ChatGPT 负责人称其对出版商是\"生存威胁\"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。",
+        "title_original": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31207",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
-      "story_id": "story_1f54ce7e4b83",
-      "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-      "url": "https://www.aibase.com/news/31204",
-      "primary_url": "https://www.aibase.com/news/31204",
+      "story_id": "story_d808ad1bd79d",
+      "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+      "url": "https://www.aibase.com/news/31213",
+      "primary_url": "https://www.aibase.com/news/31213",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
+          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
           "title_en": null,
-          "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+          "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31204",
+          "url": "https://www.aibase.com/news/31213",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
+          "published_at": "2026-09-21T01:12:28.012768Z"
         }
       ],
       "source_count": 1,
@@ -728,48 +781,49 @@
       ],
       "items": [
         {
-          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
+          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
           "title_en": null,
-          "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+          "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31204",
+          "url": "https://www.aibase.com/news/31213",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
+          "published_at": "2026-09-21T01:12:28.012768Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8238,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-20T09:48:58.396453Z",
-      "latest_at": "2026-09-20T09:48:58.396453Z",
+      "earliest_at": "2026-09-21T01:12:28.012768Z",
+      "latest_at": "2026-09-21T01:12:28.012768Z",
       "primary_item": {
-        "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-        "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-        "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+        "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
+        "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+        "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
         "title_en": null,
-        "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+        "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31204",
+        "url": "https://www.aibase.com/news/31213",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -777,30 +831,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
-      "story_id": "story_24e06ede9452",
-      "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-      "url": "https://www.aibase.com/news/31206",
-      "primary_url": "https://www.aibase.com/news/31206",
+      "story_id": "story_e98039ec20fa",
+      "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+      "url": "https://www.aibase.com/news/31208",
+      "primary_url": "https://www.aibase.com/news/31208",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "id": "f6af3d5b7fa0344253ea09283f77448b6fb32012",
+          "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+          "title_zh": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
           "title_en": null,
-          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "title_original": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31206",
+          "url": "https://www.aibase.com/news/31208",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
+          "published_at": "2026-09-21T01:12:28.012768Z"
         }
       ],
       "source_count": 1,
@@ -809,48 +863,49 @@
       ],
       "items": [
         {
-          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "id": "f6af3d5b7fa0344253ea09283f77448b6fb32012",
+          "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+          "title_zh": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
           "title_en": null,
-          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "title_original": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31206",
+          "url": "https://www.aibase.com/news/31208",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
+          "published_at": "2026-09-21T01:12:28.012768Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8238,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-20T09:48:58.396453Z",
-      "latest_at": "2026-09-20T09:48:58.396453Z",
+      "earliest_at": "2026-09-21T01:12:28.012768Z",
+      "latest_at": "2026-09-21T01:12:28.012768Z",
       "primary_item": {
-        "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-        "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-        "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+        "id": "f6af3d5b7fa0344253ea09283f77448b6fb32012",
+        "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+        "title_zh": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
         "title_en": null,
-        "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+        "title_original": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31206",
+        "url": "https://www.aibase.com/news/31208",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -858,30 +913,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
-      "story_id": "story_f7f3d62fb233",
-      "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-      "url": "https://www.aibase.com/news/31200",
-      "primary_url": "https://www.aibase.com/news/31200",
+      "story_id": "story_922c7198b406",
+      "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
+      "url": "https://www.aibase.com/news/31209",
+      "primary_url": "https://www.aibase.com/news/31209",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
-          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-          "title_zh": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "id": "b64e5b707a5979ee7fecc5fbc6b1a98292fb6123",
+          "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
+          "title_zh": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
           "title_en": null,
-          "title_original": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "title_original": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31200",
+          "url": "https://www.aibase.com/news/31209",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
+          "published_at": "2026-09-21T01:12:28.012768Z"
         }
       ],
       "source_count": 1,
@@ -890,48 +945,49 @@
       ],
       "items": [
         {
-          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
-          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-          "title_zh": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "id": "b64e5b707a5979ee7fecc5fbc6b1a98292fb6123",
+          "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
+          "title_zh": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
           "title_en": null,
-          "title_original": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "title_original": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31200",
+          "url": "https://www.aibase.com/news/31209",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
+          "published_at": "2026-09-21T01:12:28.012768Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8238,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-20T09:48:58.396453Z",
-      "latest_at": "2026-09-20T09:48:58.396453Z",
+      "earliest_at": "2026-09-21T01:12:28.012768Z",
+      "latest_at": "2026-09-21T01:12:28.012768Z",
       "primary_item": {
-        "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
-        "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
-        "title_zh": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+        "id": "b64e5b707a5979ee7fecc5fbc6b1a98292fb6123",
+        "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
+        "title_zh": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
         "title_en": null,
-        "title_original": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+        "title_original": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31200",
+        "url": "https://www.aibase.com/news/31209",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -939,88 +995,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
-      }
-    },
-    {
-      "story_id": "story_99589b68f290",
-      "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-      "url": "https://www.aibase.com/news/31201",
-      "primary_url": "https://www.aibase.com/news/31201",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
-          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-          "title_zh": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-          "title_en": null,
-          "title_original": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31201",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
-          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-          "title_zh": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-          "title_en": null,
-          "title_original": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31201",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8238,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T09:48:58.396453Z",
-      "latest_at": "2026-09-20T09:48:58.396453Z",
-      "primary_item": {
-        "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
-        "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-        "title_zh": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-        "title_en": null,
-        "title_original": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31201",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
@@ -1096,15 +1071,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6044,
-      "importance": 0.6044,
-      "importance_score": 0.6044,
+      "score": 0.5997,
+      "importance": 0.5997,
+      "importance_score": 0.5997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9384,
+        "recency": 0.9121,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1129,30 +1104,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
-      "story_id": "story_6bc1ec806a2b",
-      "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-      "url": "https://www.aibase.com/news/31203",
-      "primary_url": "https://www.aibase.com/news/31203",
+      "story_id": "story_039fbdfe137a",
+      "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+      "url": "https://www.aibase.com/news/31212",
+      "primary_url": "https://www.aibase.com/news/31212",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
+          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
           "title_en": null,
-          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31203",
+          "url": "https://www.aibase.com/news/31212",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
+          "published_at": "2026-09-21T01:12:28.012768Z"
         }
       ],
       "source_count": 1,
@@ -1161,48 +1136,49 @@
       ],
       "items": [
         {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
+          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
           "title_en": null,
-          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31203",
+          "url": "https://www.aibase.com/news/31212",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
+          "published_at": "2026-09-21T01:12:28.012768Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8238,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-20T09:48:58.396453Z",
-      "latest_at": "2026-09-20T09:48:58.396453Z",
+      "earliest_at": "2026-09-21T01:12:28.012768Z",
+      "latest_at": "2026-09-21T01:12:28.012768Z",
       "primary_item": {
-        "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-        "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-        "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+        "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
+        "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+        "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
         "title_en": null,
-        "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+        "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31203",
+        "url": "https://www.aibase.com/news/31212",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1210,7 +1186,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
@@ -1316,15 +1292,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5554,
-      "importance": 0.5554,
-      "importance_score": 0.5554,
+      "score": 0.5508,
+      "importance": 0.5508,
+      "importance_score": 0.5508,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9146,
+        "recency": 0.8889,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1349,88 +1325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
-      }
-    },
-    {
-      "story_id": "story_768e87b81386",
-      "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-      "url": "https://www.aibase.com/news/31199",
-      "primary_url": "https://www.aibase.com/news/31199",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "title_en": null,
-          "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:44:45.595625Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "title_en": null,
-          "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:44:45.595625Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7995,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:44:45.595625Z",
-      "latest_at": "2026-09-20T07:44:45.595625Z",
-      "primary_item": {
-        "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-        "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-        "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-        "title_en": null,
-        "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31199",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
@@ -1536,15 +1431,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5457,
-      "importance": 0.5457,
-      "importance_score": 0.5457,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8605,
+        "recency": 0.8364,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1569,109 +1464,109 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
-      "story_id": "story_8c6e00ff1c29",
-      "title": "Prompts Aren't Real",
-      "url": "https://evaluation.club",
-      "primary_url": "https://evaluation.club",
+      "story_id": "story_b893485ca51b",
+      "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
+      "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
+      "primary_url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "8c9907e389169edf39e60e8683d364dabc863112",
-          "title": "Prompts Aren't Real",
-          "title_zh": null,
-          "title_en": "Prompts Aren't Real",
-          "title_original": "Prompts Aren't Real",
+          "id": "5c38bfc59adbc4635d381a8ff82e043f57e003af",
+          "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
+          "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
+          "title_en": "Not all AI workers think the tech could kill everyone",
+          "title_original": "Not all AI workers think the tech could kill everyone",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
+          "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T15:59:25Z"
+          "published_at": "2026-09-20T22:22:16Z"
         },
         {
-          "id": "a47956e593e95d7421d5dae1122ea42c6b1015bd",
-          "title": "Prompts aren’t Real",
-          "title_zh": null,
-          "title_en": "Prompts aren’t Real",
-          "title_original": "Prompts aren’t Real",
+          "id": "67ba33046e75f19987e8b6c2340f369c58ca0100",
+          "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
+          "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
+          "title_en": "Not all AI workers think the tech could kill everyone",
+          "title_original": "Not all AI workers think the tech could kill everyone",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:59:25Z"
+          "url": "https://news.ycombinator.com/item?id=49780704",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T22:22:16Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "8c9907e389169edf39e60e8683d364dabc863112",
-          "title": "Prompts Aren't Real",
-          "title_zh": null,
-          "title_en": "Prompts Aren't Real",
-          "title_original": "Prompts Aren't Real",
+          "id": "5c38bfc59adbc4635d381a8ff82e043f57e003af",
+          "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
+          "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
+          "title_en": "Not all AI workers think the tech could kill everyone",
+          "title_original": "Not all AI workers think the tech could kill everyone",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
+          "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T15:59:25Z"
+          "published_at": "2026-09-20T22:22:16Z"
         },
         {
-          "id": "a47956e593e95d7421d5dae1122ea42c6b1015bd",
-          "title": "Prompts aren’t Real",
-          "title_zh": null,
-          "title_en": "Prompts aren’t Real",
-          "title_original": "Prompts aren’t Real",
+          "id": "67ba33046e75f19987e8b6c2340f369c58ca0100",
+          "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
+          "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
+          "title_en": "Not all AI workers think the tech could kill everyone",
+          "title_original": "Not all AI workers think the tech could kill everyone",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:59:25Z"
+          "url": "https://news.ycombinator.com/item?id=49780704",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T22:22:16Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9006,
+        "recency": 0.9599,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T15:59:25Z",
-      "latest_at": "2026-09-20T15:59:25Z",
+      "earliest_at": "2026-09-20T22:22:16Z",
+      "latest_at": "2026-09-20T22:22:16Z",
       "primary_item": {
-        "id": "8c9907e389169edf39e60e8683d364dabc863112",
-        "title": "Prompts Aren't Real",
-        "title_zh": null,
-        "title_en": "Prompts Aren't Real",
-        "title_original": "Prompts Aren't Real",
+        "id": "5c38bfc59adbc4635d381a8ff82e043f57e003af",
+        "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
+        "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
+        "title_en": "Not all AI workers think the tech could kill everyone",
+        "title_original": "Not all AI workers think the tech could kill everyone",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://evaluation.club",
+        "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
         "source": "Hacker News",
         "source_name": "TechURLs"
       },
@@ -1679,30 +1574,140 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
-      "story_id": "story_d1c800dec247",
-      "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-      "url": "https://www.aibase.com/news/31180",
-      "primary_url": "https://www.aibase.com/news/31180",
+      "story_id": "story_eaaebca67b10",
+      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+      "url": "https://softwarecrisis.dev/letters/llmentalist",
+      "primary_url": "https://softwarecrisis.dev/letters/llmentalist",
+      "source": "softwarecrisis.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "title_zh": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "title_en": null,
+          "title_original": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "softwarecrisis.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T15:28:23.669000Z"
+        },
+        {
+          "id": "b20cf1b1b84b64809360ce0cfd58f69815da93f2",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / The LLMentalist Effect (2023)",
+          "title_zh": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "title_en": "The LLMentalist Effect (2023)",
+          "title_original": "The LLMentalist Effect (2023)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T12:20:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "softwarecrisis.dev"
+      ],
+      "items": [
+        {
+          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "title_zh": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "title_en": null,
+          "title_original": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "softwarecrisis.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T15:28:23.669000Z"
+        },
+        {
+          "id": "b20cf1b1b84b64809360ce0cfd58f69815da93f2",
+          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / The LLMentalist Effect (2023)",
+          "title_zh": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+          "title_en": "The LLMentalist Effect (2023)",
+          "title_original": "The LLMentalist Effect (2023)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://softwarecrisis.dev/letters/llmentalist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T12:20:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8689,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T12:20:13Z",
+      "latest_at": "2026-09-20T15:28:23.669000Z",
+      "primary_item": {
+        "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
+        "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+        "title_zh": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+        "title_en": null,
+        "title_original": "基于对话的大型语言模型复制了通灵师的欺骗手段",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://softwarecrisis.dev/letters/llmentalist",
+        "source": "softwarecrisis.dev",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T01:20:56.232065Z"
+      }
+    },
+    {
+      "story_id": "story_0c9b9ccf9cc3",
+      "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+      "url": "https://www.aibase.com/news/31205",
+      "primary_url": "https://www.aibase.com/news/31205",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
-          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-          "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
+          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
           "title_en": null,
-          "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31180",
+          "url": "https://www.aibase.com/news/31205",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:44:45.595625Z"
+          "published_at": "2026-09-20T09:48:58.396453Z"
         }
       ],
       "source_count": 1,
@@ -1711,48 +1716,48 @@
       ],
       "items": [
         {
-          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
-          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-          "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
+          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
           "title_en": null,
-          "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31180",
+          "url": "https://www.aibase.com/news/31205",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:44:45.595625Z"
+          "published_at": "2026-09-20T09:48:58.396453Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7995,
+        "recency": 0.8007,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-20T07:44:45.595625Z",
-      "latest_at": "2026-09-20T07:44:45.595625Z",
+      "earliest_at": "2026-09-20T09:48:58.396453Z",
+      "latest_at": "2026-09-20T09:48:58.396453Z",
       "primary_item": {
-        "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
-        "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-        "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+        "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
+        "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+        "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
         "title_en": null,
-        "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+        "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31180",
+        "url": "https://www.aibase.com/news/31205",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1760,7 +1765,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
@@ -1837,15 +1842,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.518,
-      "importance": 0.518,
-      "importance_score": 0.518,
+      "score": 0.5137,
+      "importance": 0.5137,
+      "importance_score": 0.5137,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8455,
+        "recency": 0.8218,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1870,7 +1875,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
+      }
+    },
+    {
+      "story_id": "story_e9afee2fcdd7",
+      "title": "Why MCP Was Always a Bad Idea",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "Why MCP Was Always a Bad Idea",
+          "title_zh": null,
+          "title_en": "Why MCP Was Always a Bad Idea",
+          "title_original": "Why MCP Was Always a Bad Idea",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
+          "title": "Why MCP Was Always a Bad Idea?",
+          "title_zh": null,
+          "title_en": "Why MCP Was Always a Bad Idea?",
+          "title_original": "Why MCP Was Always a Bad Idea?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "Why MCP Was Always a Bad Idea",
+          "title_zh": null,
+          "title_en": "Why MCP Was Always a Bad Idea",
+          "title_original": "Why MCP Was Always a Bad Idea",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
+          "title": "Why MCP Was Always a Bad Idea?",
+          "title_zh": null,
+          "title_en": "Why MCP Was Always a Bad Idea?",
+          "title_original": "Why MCP Was Always a Bad Idea?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9241,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T19:44:40Z",
+      "latest_at": "2026-09-20T19:44:40Z",
+      "primary_item": {
+        "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+        "title": "Why MCP Was Always a Bad Idea",
+        "title_zh": null,
+        "title_en": "Why MCP Was Always a Bad Idea",
+        "title_original": "Why MCP Was Always a Bad Idea",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     },
     {
@@ -1947,15 +2062,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5057,
-      "importance": 0.5057,
-      "importance_score": 0.5057,
+      "score": 0.5018,
+      "importance": 0.5018,
+      "importance_score": 0.5018,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7771,
+        "recency": 0.7553,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1980,88 +2095,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
-      }
-    },
-    {
-      "story_id": "story_ddac4dc50eac",
-      "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-      "url": "https://www.aibase.com/news/31193",
-      "primary_url": "https://www.aibase.com/news/31193",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_en": null,
-          "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31193",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:44:45.595625Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_en": null,
-          "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31193",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:44:45.595625Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7995,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:44:45.595625Z",
-      "latest_at": "2026-09-20T07:44:45.595625Z",
-      "primary_item": {
-        "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-        "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-        "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-        "title_en": null,
-        "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31193",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T23:23:12.874790Z"
+        "scored_at": "2026-09-21T01:20:56.232065Z"
       }
     }
   ]
