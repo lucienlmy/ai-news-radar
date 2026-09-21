@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:12:28.012768Z",
+  "generated_at": "2026-09-21T06:29:43.499809Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9024,
+        "recency": 0.836,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
@@ -305,15 +305,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8264,
+        "recency": 0.7656,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -340,7 +340,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
+      }
+    },
+    {
+      "story_id": "story_924c1201d9fd",
+      "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+      "url": "https://www.aibase.com/news/31217",
+      "primary_url": "https://www.aibase.com/news/31217",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
+          "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_en": null,
+          "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31217",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:29:43.499809Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
+          "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_en": null,
+          "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31217",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:29:43.499809Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T06:29:43.499809Z",
+      "latest_at": "2026-09-21T06:29:43.499809Z",
+      "primary_item": {
+        "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
+        "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+        "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+        "title_en": null,
+        "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31217",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
@@ -388,15 +470,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9322,
+        "recency": 0.8637,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -422,30 +504,192 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
-      "story_id": "story_37d000e5ebed",
-      "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-      "url": "https://www.aibase.com/news/31211",
-      "primary_url": "https://www.aibase.com/news/31211",
+      "story_id": "story_1f933272e9f7",
+      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9486,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T02:50:40Z",
+      "latest_at": "2026-09-21T02:50:40Z",
+      "primary_item": {
+        "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+        "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+        "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+        "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+        "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+        "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T06:30:33.218463Z"
+      }
+    },
+    {
+      "story_id": "story_7b14ecd6d515",
+      "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "title_zh": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "title_en": null,
+          "title_original": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "title_zh": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "title_en": null,
+          "title_original": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9356,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T01:52:57Z",
+      "latest_at": "2026-09-21T01:52:57Z",
+      "primary_item": {
+        "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+        "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+        "title_zh": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+        "title_en": null,
+        "title_original": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+        "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T06:30:33.218463Z"
+      }
+    },
+    {
+      "story_id": "story_917990886c44",
+      "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+      "url": "https://www.aibase.com/news/31220",
+      "primary_url": "https://www.aibase.com/news/31220",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
+          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
           "title_en": null,
-          "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31211",
+          "url": "https://www.aibase.com/news/31220",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
       "source_count": 1,
@@ -454,18 +698,18 @@
       ],
       "items": [
         {
-          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
+          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
           "title_en": null,
-          "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31211",
+          "url": "https://www.aibase.com/news/31220",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
       "item_count": 1,
@@ -486,17 +730,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:12:28.012768Z",
-      "latest_at": "2026-09-21T01:12:28.012768Z",
+      "earliest_at": "2026-09-21T06:29:43.499809Z",
+      "latest_at": "2026-09-21T06:29:43.499809Z",
       "primary_item": {
-        "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-        "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-        "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+        "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
+        "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+        "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
         "title_en": null,
-        "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+        "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31211",
+        "url": "https://www.aibase.com/news/31220",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -504,30 +748,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
-      "story_id": "story_91920f3fb92d",
-      "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-      "url": "https://www.aibase.com/news/31210",
-      "primary_url": "https://www.aibase.com/news/31210",
+      "story_id": "story_214d4d19f8d1",
+      "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+      "url": "https://www.aibase.com/news/31228",
+      "primary_url": "https://www.aibase.com/news/31228",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
-          "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-          "title_zh": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
           "title_en": null,
-          "title_original": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31210",
+          "url": "https://www.aibase.com/news/31228",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
       "source_count": 1,
@@ -536,18 +780,18 @@
       ],
       "items": [
         {
-          "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
-          "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-          "title_zh": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
           "title_en": null,
-          "title_original": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31210",
+          "url": "https://www.aibase.com/news/31228",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
       "item_count": 1,
@@ -568,17 +812,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:12:28.012768Z",
-      "latest_at": "2026-09-21T01:12:28.012768Z",
+      "earliest_at": "2026-09-21T06:29:43.499809Z",
+      "latest_at": "2026-09-21T06:29:43.499809Z",
       "primary_item": {
-        "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
-        "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-        "title_zh": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+        "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+        "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+        "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
         "title_en": null,
-        "title_original": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+        "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31210",
+        "url": "https://www.aibase.com/news/31228",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -586,7 +830,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
@@ -634,15 +878,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.849,
+        "recency": 0.7866,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -667,30 +911,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
-      "story_id": "story_49185780ee9f",
-      "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
-      "url": "https://www.aibase.com/news/31207",
-      "primary_url": "https://www.aibase.com/news/31207",
+      "story_id": "story_10f34a357915",
+      "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+      "url": "https://www.aibase.com/news/31215",
+      "primary_url": "https://www.aibase.com/news/31215",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
-          "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
-          "title_zh": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
+          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "title_zh": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
           "title_en": null,
-          "title_original": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+          "title_original": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31207",
+          "url": "https://www.aibase.com/news/31215",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
       "source_count": 1,
@@ -699,18 +943,18 @@
       ],
       "items": [
         {
-          "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
-          "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
-          "title_zh": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
+          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "title_zh": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
           "title_en": null,
-          "title_original": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+          "title_original": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31207",
+          "url": "https://www.aibase.com/news/31215",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
       "item_count": 1,
@@ -731,17 +975,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:12:28.012768Z",
-      "latest_at": "2026-09-21T01:12:28.012768Z",
+      "earliest_at": "2026-09-21T06:29:43.499809Z",
+      "latest_at": "2026-09-21T06:29:43.499809Z",
       "primary_item": {
-        "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
-        "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
-        "title_zh": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+        "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
+        "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+        "title_zh": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
         "title_en": null,
-        "title_original": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+        "title_original": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31207",
+        "url": "https://www.aibase.com/news/31215",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -749,30 +993,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
-      "story_id": "story_d808ad1bd79d",
-      "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-      "url": "https://www.aibase.com/news/31213",
-      "primary_url": "https://www.aibase.com/news/31213",
+      "story_id": "story_c153834ea5e5",
+      "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+      "url": "https://www.aibase.com/news/31218",
+      "primary_url": "https://www.aibase.com/news/31218",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "id": "cf42fa0553029b92f44ab03f7e93f1b8c981da09",
+          "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+          "title_zh": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
           "title_en": null,
-          "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "title_original": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31213",
+          "url": "https://www.aibase.com/news/31218",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
       "source_count": 1,
@@ -781,18 +1025,18 @@
       ],
       "items": [
         {
-          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "id": "cf42fa0553029b92f44ab03f7e93f1b8c981da09",
+          "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+          "title_zh": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
           "title_en": null,
-          "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "title_original": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31213",
+          "url": "https://www.aibase.com/news/31218",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
       "item_count": 1,
@@ -813,17 +1057,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:12:28.012768Z",
-      "latest_at": "2026-09-21T01:12:28.012768Z",
+      "earliest_at": "2026-09-21T06:29:43.499809Z",
+      "latest_at": "2026-09-21T06:29:43.499809Z",
       "primary_item": {
-        "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-        "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-        "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+        "id": "cf42fa0553029b92f44ab03f7e93f1b8c981da09",
+        "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+        "title_zh": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
         "title_en": null,
-        "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+        "title_original": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31213",
+        "url": "https://www.aibase.com/news/31218",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -831,30 +1075,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
-      "story_id": "story_e98039ec20fa",
-      "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
-      "url": "https://www.aibase.com/news/31208",
-      "primary_url": "https://www.aibase.com/news/31208",
+      "story_id": "story_594bd34ddeb4",
+      "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+      "url": "https://www.aibase.com/news/31226",
+      "primary_url": "https://www.aibase.com/news/31226",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f6af3d5b7fa0344253ea09283f77448b6fb32012",
-          "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
-          "title_zh": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
+          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
           "title_en": null,
-          "title_original": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31208",
+          "url": "https://www.aibase.com/news/31226",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
       "source_count": 1,
@@ -863,18 +1107,18 @@
       ],
       "items": [
         {
-          "id": "f6af3d5b7fa0344253ea09283f77448b6fb32012",
-          "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
-          "title_zh": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
+          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
           "title_en": null,
-          "title_original": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31208",
+          "url": "https://www.aibase.com/news/31226",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
       "item_count": 1,
@@ -895,17 +1139,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:12:28.012768Z",
-      "latest_at": "2026-09-21T01:12:28.012768Z",
+      "earliest_at": "2026-09-21T06:29:43.499809Z",
+      "latest_at": "2026-09-21T06:29:43.499809Z",
       "primary_item": {
-        "id": "f6af3d5b7fa0344253ea09283f77448b6fb32012",
-        "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
-        "title_zh": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+        "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
+        "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+        "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
         "title_en": null,
-        "title_original": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
+        "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31208",
+        "url": "https://www.aibase.com/news/31226",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -913,89 +1157,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
-      }
-    },
-    {
-      "story_id": "story_922c7198b406",
-      "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-      "url": "https://www.aibase.com/news/31209",
-      "primary_url": "https://www.aibase.com/news/31209",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b64e5b707a5979ee7fecc5fbc6b1a98292fb6123",
-          "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "title_zh": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "title_en": null,
-          "title_original": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31209",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b64e5b707a5979ee7fecc5fbc6b1a98292fb6123",
-          "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "title_zh": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "title_en": null,
-          "title_original": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31209",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T01:12:28.012768Z",
-      "latest_at": "2026-09-21T01:12:28.012768Z",
-      "primary_item": {
-        "id": "b64e5b707a5979ee7fecc5fbc6b1a98292fb6123",
-        "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-        "title_zh": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-        "title_en": null,
-        "title_original": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31209",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
@@ -1022,8 +1184,8 @@
         },
         {
           "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "title_zh": null,
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
           "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "summary": null,
@@ -1056,8 +1218,8 @@
         },
         {
           "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "title_zh": null,
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
           "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "summary": null,
@@ -1071,15 +1233,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5997,
-      "importance": 0.5997,
-      "importance_score": 0.5997,
+      "score": 0.5876,
+      "importance": 0.5876,
+      "importance_score": 0.5876,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9121,
+        "recency": 0.8451,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1104,30 +1266,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
-      "story_id": "story_039fbdfe137a",
-      "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-      "url": "https://www.aibase.com/news/31212",
-      "primary_url": "https://www.aibase.com/news/31212",
+      "story_id": "story_f66f3268b197",
+      "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
+      "url": "https://www.aibase.com/news/31216",
+      "primary_url": "https://www.aibase.com/news/31216",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
+          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
+          "title_zh": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
           "title_en": null,
-          "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "title_original": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31212",
+          "url": "https://www.aibase.com/news/31216",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
       "source_count": 1,
@@ -1136,18 +1298,18 @@
       ],
       "items": [
         {
-          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
+          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
+          "title_zh": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
           "title_en": null,
-          "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "title_original": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31212",
+          "url": "https://www.aibase.com/news/31216",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:12:28.012768Z"
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
       "item_count": 1,
@@ -1168,17 +1330,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:12:28.012768Z",
-      "latest_at": "2026-09-21T01:12:28.012768Z",
+      "earliest_at": "2026-09-21T06:29:43.499809Z",
+      "latest_at": "2026-09-21T06:29:43.499809Z",
       "primary_item": {
-        "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-        "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-        "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+        "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
+        "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
+        "title_zh": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
         "title_en": null,
-        "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+        "title_original": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31212",
+        "url": "https://www.aibase.com/news/31216",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1186,7 +1348,228 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
+      }
+    },
+    {
+      "story_id": "story_98838815cda3",
+      "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+      "url": "https://www.aibase.com/news/31224",
+      "primary_url": "https://www.aibase.com/news/31224",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "title_en": null,
+          "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31224",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:29:43.499809Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "title_en": null,
+          "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31224",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:29:43.499809Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T06:29:43.499809Z",
+      "latest_at": "2026-09-21T06:29:43.499809Z",
+      "primary_item": {
+        "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+        "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+        "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+        "title_en": null,
+        "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31224",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T06:30:33.218463Z"
+      }
+    },
+    {
+      "story_id": "story_e9afee2fcdd7",
+      "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+          "title_zh": "为什么 MCP 总是一个坏主意",
+          "title_en": "Why MCP Was Always a Bad Idea",
+          "title_original": "Why MCP Was Always a Bad Idea",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
+          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
+          "title_zh": "为什么 MCP 总是一个坏主意？",
+          "title_en": "Why MCP Was Always a Bad Idea?",
+          "title_original": "Why MCP Was Always a Bad Idea?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
+          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
+          "title_zh": "为什么 MCP 总是一个坏主意？",
+          "title_en": "Why MCP Was Always a Bad Idea?",
+          "title_original": "Why MCP Was Always a Bad Idea?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49779329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+          "title_zh": "为什么 MCP 总是一个坏主意",
+          "title_en": "Why MCP Was Always a Bad Idea",
+          "title_original": "Why MCP Was Always a Bad Idea",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
+          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
+          "title_zh": "为什么 MCP 总是一个坏主意？",
+          "title_en": "Why MCP Was Always a Bad Idea?",
+          "title_original": "Why MCP Was Always a Bad Idea?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
+          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
+          "title_zh": "为什么 MCP 总是一个坏主意？",
+          "title_en": "Why MCP Was Always a Bad Idea?",
+          "title_original": "Why MCP Was Always a Bad Idea?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49779329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8562,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T19:44:40Z",
+      "latest_at": "2026-09-20T19:44:40Z",
+      "primary_item": {
+        "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+        "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+        "title_zh": "为什么 MCP 总是一个坏主意",
+        "title_en": "Why MCP Was Always a Bad Idea",
+        "title_original": "Why MCP Was Always a Bad Idea",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
@@ -1292,15 +1675,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5508,
-      "importance": 0.5508,
-      "importance_score": 0.5508,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8889,
+        "recency": 0.8236,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1325,7 +1708,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
@@ -1431,15 +1814,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8364,
+        "recency": 0.7749,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1464,117 +1847,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
-      "story_id": "story_b893485ca51b",
-      "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
-      "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-      "primary_url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "story_id": "story_4cfa68fe6c38",
+      "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+      "url": "https://www.aibase.com/news/31222",
+      "primary_url": "https://www.aibase.com/news/31222",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "5c38bfc59adbc4635d381a8ff82e043f57e003af",
-          "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
-          "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
-          "title_en": "Not all AI workers think the tech could kill everyone",
-          "title_original": "Not all AI workers think the tech could kill everyone",
+          "id": "9f48104b2fcf4cc2e012993d0615cd31b5dfbb74",
+          "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_zh": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_en": null,
+          "title_original": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T22:22:16Z"
-        },
-        {
-          "id": "67ba33046e75f19987e8b6c2340f369c58ca0100",
-          "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
-          "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
-          "title_en": "Not all AI workers think the tech could kill everyone",
-          "title_original": "Not all AI workers think the tech could kill everyone",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49780704",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T22:22:16Z"
+          "url": "https://www.aibase.com/news/31222",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5c38bfc59adbc4635d381a8ff82e043f57e003af",
-          "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
-          "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
-          "title_en": "Not all AI workers think the tech could kill everyone",
-          "title_original": "Not all AI workers think the tech could kill everyone",
+          "id": "9f48104b2fcf4cc2e012993d0615cd31b5dfbb74",
+          "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_zh": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_en": null,
+          "title_original": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T22:22:16Z"
-        },
-        {
-          "id": "67ba33046e75f19987e8b6c2340f369c58ca0100",
-          "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
-          "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
-          "title_en": "Not all AI workers think the tech could kill everyone",
-          "title_original": "Not all AI workers think the tech could kill everyone",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49780704",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T22:22:16Z"
+          "url": "https://www.aibase.com/news/31222",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T06:29:43.499809Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9599,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-20T22:22:16Z",
-      "latest_at": "2026-09-20T22:22:16Z",
+      "earliest_at": "2026-09-21T06:29:43.499809Z",
+      "latest_at": "2026-09-21T06:29:43.499809Z",
       "primary_item": {
-        "id": "5c38bfc59adbc4635d381a8ff82e043f57e003af",
-        "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
-        "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
-        "title_en": "Not all AI workers think the tech could kill everyone",
-        "title_original": "Not all AI workers think the tech could kill everyone",
+        "id": "9f48104b2fcf4cc2e012993d0615cd31b5dfbb74",
+        "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+        "title_zh": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+        "title_en": null,
+        "title_original": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "url": "https://www.aibase.com/news/31222",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     },
     {
@@ -1651,15 +2006,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8689,
+        "recency": 0.805,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1684,418 +2039,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
-      }
-    },
-    {
-      "story_id": "story_0c9b9ccf9cc3",
-      "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-      "url": "https://www.aibase.com/news/31205",
-      "primary_url": "https://www.aibase.com/news/31205",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "title_en": null,
-          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31205",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "title_en": null,
-          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31205",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:48:58.396453Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8007,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T09:48:58.396453Z",
-      "latest_at": "2026-09-20T09:48:58.396453Z",
-      "primary_item": {
-        "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-        "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-        "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-        "title_en": null,
-        "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31205",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
-      }
-    },
-    {
-      "story_id": "story_d33cb89128f1",
-      "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "primary_url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "313859eb459612551da88bd8a4d0cfffa9b411b2",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T11:37:10Z"
-        },
-        {
-          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49774795",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T11:37:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "313859eb459612551da88bd8a4d0cfffa9b411b2",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T11:37:10Z"
-        },
-        {
-          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49774795",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T11:37:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8218,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T11:37:10Z",
-      "latest_at": "2026-09-20T11:37:10Z",
-      "primary_item": {
-        "id": "313859eb459612551da88bd8a4d0cfffa9b411b2",
-        "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-        "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-        "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-        "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
-      }
-    },
-    {
-      "story_id": "story_e9afee2fcdd7",
-      "title": "Why MCP Was Always a Bad Idea",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "Why MCP Was Always a Bad Idea",
-          "title_zh": null,
-          "title_en": "Why MCP Was Always a Bad Idea",
-          "title_original": "Why MCP Was Always a Bad Idea",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "title_zh": null,
-          "title_en": "Why MCP Was Always a Bad Idea?",
-          "title_original": "Why MCP Was Always a Bad Idea?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "Why MCP Was Always a Bad Idea",
-          "title_zh": null,
-          "title_en": "Why MCP Was Always a Bad Idea",
-          "title_original": "Why MCP Was Always a Bad Idea",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "title_zh": null,
-          "title_en": "Why MCP Was Always a Bad Idea?",
-          "title_original": "Why MCP Was Always a Bad Idea?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9241,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T19:44:40Z",
-      "latest_at": "2026-09-20T19:44:40Z",
-      "primary_item": {
-        "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-        "title": "Why MCP Was Always a Bad Idea",
-        "title_zh": null,
-        "title_en": "Why MCP Was Always a Bad Idea",
-        "title_original": "Why MCP Was Always a Bad Idea",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
-      }
-    },
-    {
-      "story_id": "story_79fe487188c4",
-      "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-      "primary_url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
-      "sources": [
-        {
-          "id": "11fe2dfd54c4275015fda1d3ba1d57f8c61f237d",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-20T05:46:19Z"
-        },
-        {
-          "id": "1e8cd5edc0205aacef8052cbbeb2e9f6a0a09ed5",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49772806",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T05:46:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "11fe2dfd54c4275015fda1d3ba1d57f8c61f237d",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-20T05:46:19Z"
-        },
-        {
-          "id": "1e8cd5edc0205aacef8052cbbeb2e9f6a0a09ed5",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49772806",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T05:46:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5018,
-      "importance": 0.5018,
-      "importance_score": 0.5018,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7553,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T05:46:19Z",
-      "latest_at": "2026-09-20T05:46:19Z",
-      "primary_item": {
-        "id": "11fe2dfd54c4275015fda1d3ba1d57f8c61f237d",
-        "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-        "title_zh": "编排Claude代码代理：参谋长模式",
-        "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-        "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T01:20:56.232065Z"
+        "scored_at": "2026-09-21T06:30:33.218463Z"
       }
     }
   ]
