@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 23 Sep 2026 23:40:36 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 02:01:35 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats</title>
@@ -80,14 +80,6 @@
 <pubDate>Wed, 23 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.156.1</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Local sandboxing in the GitHub Copilot app</title>
 <link>https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app</guid>
@@ -120,12 +112,36 @@
 <pubDate>Wed, 23 Sep 2026 16:00:57 +0000</pubDate>
 </item>
 <item>
+<title>Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度 / Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…</title>
+<link>https://x.com/ClaudeDevs/status/2102871550974427462</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2102871550974427462</guid>
+<description>Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11：59 PM PT 前领取、11 月 4 日前用完。（X：Claude Devs (@ClaudeDevs)）</description>
+<category>官方更新</category>
+<pubDate>Wed, 23 Sep 2026 21:23:41 +0000</pubDate>
+</item>
+<item>
 <title>Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK</title>
 <link>https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk</link>
 <guid isPermaLink="true">https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk</guid>
 <description>Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 &gt;24GB VRAM 或统一内存。（Google Developers Blog（RSS））</description>
 <category>官方更新</category>
 <pubDate>Wed, 23 Sep 2026 17:09:01 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 称与苹果的 ChatGPT 合作表现远低于预期</title>
+<link>https://www.ithome.com/1/006/548.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/006/548.htm</guid>
+<description>OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 24 Sep 2026 01:12:13 +0000</pubDate>
+</item>
+<item>
+<title>OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It</title>
+<link>https://openrouter.ai/blog/insights/kimi-k3-open-source</link>
+<guid isPermaLink="true">https://openrouter.ai/blog/insights/kimi-k3-open-source</guid>
+<description>OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。（OpenRouter：Announcements（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统 / Wild stuff. Anthropic's new wet lab got its first win after 949 Claude agents autonomously tracked d…</title>
@@ -150,22 +166,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Wed, 23 Sep 2026 20:46:07 +0000</pubDate>
-</item>
-<item>
-<title>团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…</title>
-<link>https://x.com/ericzakariasson/status/2102853511637774551</link>
-<guid isPermaLink="true">https://x.com/ericzakariasson/status/2102853511637774551</guid>
-<description>一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。（X：Eric Zakariasson (@ericzakariasson)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 20:12:00 +0000</pubDate>
-</item>
-<item>
-<title>invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra</title>
-<link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-<guid isPermaLink="true">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
