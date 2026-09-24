@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:00:52.549181Z",
+  "generated_at": "2026-09-24T11:57:31.655589Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8508,
-      "importance": 0.8508,
-      "importance_score": 0.8508,
+      "score": 0.8468,
+      "importance": 0.8468,
+      "importance_score": 0.8468,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7988,
+        "recency": 0.7767,
         "story_heat": 0.5
       },
       "category": "official",
@@ -141,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8483,
-      "importance": 0.8483,
-      "importance_score": 0.8483,
+      "score": 0.8443,
+      "importance": 0.8443,
+      "importance_score": 0.8443,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8097,
+        "recency": 0.7873,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -339,7 +339,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -387,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8015,
+        "recency": 0.7793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -422,7 +422,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -528,15 +528,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8518,
+        "recency": 0.8282,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -563,7 +563,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -611,15 +611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8339,
+        "recency": 0.8108,
         "story_heat": 0.0
       },
       "category": "official",
@@ -646,7 +646,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -694,15 +694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7277,
+        "recency": 0.7075,
         "story_heat": 0.0
       },
       "category": "official",
@@ -729,7 +729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -777,15 +777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7992,
+        "recency": 0.7771,
         "story_heat": 0.0
       },
       "category": "official",
@@ -812,7 +812,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -860,15 +860,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7645,
+        "recency": 0.7434,
         "story_heat": 0.0
       },
       "category": "official",
@@ -895,7 +895,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -943,15 +943,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7935,
+        "recency": 0.7716,
         "story_heat": 0.0
       },
       "category": "official",
@@ -978,7 +978,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -1026,15 +1026,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9931,
+        "recency": 0.9656,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1060,12 +1060,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
       "story_id": "story_4784460ec311",
-      "title": "Local sandboxing in the GitHub Copilot app",
+      "title": "GitHub Copilot 应用程序中的本地沙盒 / Local sandboxing in the GitHub Copilot app",
       "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
       "primary_url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
       "source": "GitHub Changelog",
@@ -1073,8 +1073,8 @@
       "sources": [
         {
           "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "Local sandboxing in the GitHub Copilot app",
-          "title_zh": null,
+          "title": "GitHub Copilot 应用程序中的本地沙盒 / Local sandboxing in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用程序中的本地沙盒",
           "title_en": "Local sandboxing in the GitHub Copilot app",
           "title_original": "Local sandboxing in the GitHub Copilot app",
           "summary": null,
@@ -1093,8 +1093,8 @@
       "items": [
         {
           "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "Local sandboxing in the GitHub Copilot app",
-          "title_zh": null,
+          "title": "GitHub Copilot 应用程序中的本地沙盒 / Local sandboxing in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用程序中的本地沙盒",
           "title_en": "Local sandboxing in the GitHub Copilot app",
           "title_original": "Local sandboxing in the GitHub Copilot app",
           "summary": null,
@@ -1108,15 +1108,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7601,
+        "recency": 0.739,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1129,8 +1129,8 @@
       "latest_at": "2026-09-23T15:00:57Z",
       "primary_item": {
         "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-        "title": "Local sandboxing in the GitHub Copilot app",
-        "title_zh": null,
+        "title": "GitHub Copilot 应用程序中的本地沙盒 / Local sandboxing in the GitHub Copilot app",
+        "title_zh": "GitHub Copilot 应用程序中的本地沙盒",
         "title_en": "Local sandboxing in the GitHub Copilot app",
         "title_original": "Local sandboxing in the GitHub Copilot app",
         "summary": null,
@@ -1143,7 +1143,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -1191,15 +1191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7413,
+        "recency": 0.7208,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1226,7 +1226,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -1274,15 +1274,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7277,
+        "recency": 0.7075,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1309,7 +1309,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -1357,15 +1357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8902,
+        "recency": 0.8656,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1391,12 +1391,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
       "story_id": "story_9326fab27bb2",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
       "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
       "primary_url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
       "source": "Google DeepMind",
@@ -1404,8 +1404,8 @@
       "sources": [
         {
           "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-          "title": "Advancing Private AI Compute with secure, server-side memory",
-          "title_zh": null,
+          "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
+          "title_zh": "通过安全的服务器端内存推进私有人工智能计算",
           "title_en": "Advancing Private AI Compute with secure, server-side memory",
           "title_original": "Advancing Private AI Compute with secure, server-side memory",
           "summary": null,
@@ -1424,8 +1424,8 @@
       "items": [
         {
           "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-          "title": "Advancing Private AI Compute with secure, server-side memory",
-          "title_zh": null,
+          "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
+          "title_zh": "通过安全的服务器端内存推进私有人工智能计算",
           "title_en": "Advancing Private AI Compute with secure, server-side memory",
           "title_original": "Advancing Private AI Compute with secure, server-side memory",
           "summary": null,
@@ -1439,15 +1439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7711,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1460,8 +1460,8 @@
       "latest_at": "2026-09-23T16:00:57Z",
       "primary_item": {
         "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-        "title": "Advancing Private AI Compute with secure, server-side memory",
-        "title_zh": null,
+        "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
+        "title_zh": "通过安全的服务器端内存推进私有人工智能计算",
         "title_en": "Advancing Private AI Compute with secure, server-side memory",
         "title_original": "Advancing Private AI Compute with secure, server-side memory",
         "summary": null,
@@ -1474,7 +1474,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
+      }
+    },
+    {
+      "story_id": "story_b99fdaf44519",
+      "title": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+      "url": "https://www.aibase.com/news/31357",
+      "primary_url": "https://www.aibase.com/news/31357",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "74d168073f887c53aa92c3a307da15e2b33d3dea",
+          "title": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+          "title_zh": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+          "title_en": null,
+          "title_original": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T11:57:31.655589Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "74d168073f887c53aa92c3a307da15e2b33d3dea",
+          "title": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+          "title_zh": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+          "title_en": null,
+          "title_original": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T11:57:31.655589Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T11:57:31.655589Z",
+      "latest_at": "2026-09-24T11:57:31.655589Z",
+      "primary_item": {
+        "id": "74d168073f887c53aa92c3a307da15e2b33d3dea",
+        "title": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+        "title_zh": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+        "title_en": null,
+        "title_original": "首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31357",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -1522,15 +1604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7839,
+        "recency": 0.7622,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1556,7 +1638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -1604,15 +1686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9007,
+        "recency": 0.8758,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1638,89 +1720,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
-      }
-    },
-    {
-      "story_id": "story_c8560cd1bebf",
-      "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-      "url": "https://www.aibase.com/news/31347",
-      "primary_url": "https://www.aibase.com/news/31347",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
-          "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "title_en": null,
-          "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31347",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T10:00:52.549181Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
-          "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "title_en": null,
-          "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31347",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T10:00:52.549181Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T10:00:52.549181Z",
-      "latest_at": "2026-09-24T10:00:52.549181Z",
-      "primary_item": {
-        "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
-        "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-        "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-        "title_en": null,
-        "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31347",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -1768,15 +1768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8805,
+        "recency": 0.8561,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1802,7 +1802,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     },
     {
@@ -1850,15 +1850,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8025,
+        "recency": 0.7803,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1884,7 +1884,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:01:49.772823Z"
+        "scored_at": "2026-09-24T12:14:37.131495Z"
       }
     }
   ]
