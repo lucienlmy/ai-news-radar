@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 30 Sep 2026 02:32:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 06:49:34 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol</title>
@@ -96,14 +96,6 @@
 <pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...</title>
-<link>https://x.com/ClementDelangue/status/2104960836796342729</link>
-<guid isPermaLink="true">https://x.com/ClementDelangue/status/2104960836796342729</guid>
-<description>Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。（X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 15:45:46 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release</title>
 <link>https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release</link>
 <guid isPermaLink="true">https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release</guid>
@@ -112,12 +104,28 @@
 <pubDate>Tue, 29 Sep 2026 14:22:31 +0000</pubDate>
 </item>
 <item>
+<title>Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...</title>
+<link>https://x.com/ClementDelangue/status/2104960836796342729</link>
+<guid isPermaLink="true">https://x.com/ClementDelangue/status/2104960836796342729</guid>
+<description>Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。（X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 15:45:46 +0000</pubDate>
+</item>
+<item>
 <title>Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...</title>
 <link>https://x.com/arena/status/2104998408616558940</link>
 <guid isPermaLink="true">https://x.com/arena/status/2104998408616558940</guid>
 <description>Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。（X：Arena (@arena)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 29 Sep 2026 18:15:04 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic IPO 文件曝光：向 SpaceX 豪掷 845 亿美元锁定 AI 算力</title>
+<link>https://www.aibase.com/news/31432</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31432</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 06:49:34 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新</title>
@@ -142,14 +150,6 @@
 <description>OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。（X：OpenAI Developers (@OpenAIDevs)）</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 23:13:59 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 牵手亚马逊云服务 AWS：重磅布局托管智能体，推 500 美元 Pro 顶配套餐</title>
-<link>https://www.aibase.com/news/31427</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31427</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 02:32:47 +0000</pubDate>
 </item>
 <item>
 <title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]</title>
